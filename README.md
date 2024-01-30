@@ -14,3 +14,8 @@ Costa Rica here they come!! #boycott winter
 David is a single dad that works a lot to support his kids. He wants to spend more time with them in a meaningful way by creating an unforgettable experience, but he doesnt know where to start. Being a texas native, his children have always wanted to experience snow for the first time. Using Simply Travel, David can take his kids skiing, make snow angels, even build their first snowman!
 
 ![David and his children](assets/David.jpg)
+
+<br></br>
+## User Stories
+
+1. User wil
