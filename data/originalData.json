@@ -1,7 +1,9 @@
 {
   "travel": [
     {
-      "name": "Jamaica",
+      "id": "abc1234",
+      "destination": "Jamaica",
+      "iata": "KIN",
       "climate": "warm",
       "temperature": {
         "high": "89°F",
@@ -12,7 +14,9 @@
       "summary": "Jamaica, known for its reggae music and vibrant culture, offers pristine beaches, lush mountains, and a warm tropical climate. Immerse yourself in the laid-back atmosphere, savor delicious cuisine, and explore the natural beauty of this Caribbean paradise."
     },
     {
-      "name": "Mexico",
+      "id": "def5678",
+      "destination": "Mexico",
+      "iata": "CUN",
       "climate": "hot",
       "temperature": {
         "high": "86°F",
@@ -23,7 +27,9 @@
       "summary": "Mexico is a diverse destination with stunning beaches, ancient ruins, and vibrant cities. Enjoy the rich history, indulge in flavorful cuisine, and relax on the sandy shores of the Riviera Maya. Mexico offers something for every type of traveler."
     },
     {
-      "name": "Paris",
+      "id": "ghi9101",
+      "destination": "Paris",
+      "iata": "CDG",
       "climate": "cold",
       "temperature": {
         "high": "50°F",
@@ -34,7 +40,9 @@
       "summary": "The City of Love, Paris, is an iconic destination known for its romantic ambiance, world-class art, and historic landmarks. Stroll along the Seine River, visit the Eiffel Tower, and immerse yourself in the charming atmosphere of this enchanting city."
     },
     {
-      "name": "Greece",
+      "id": "jkl1112",
+      "destination": "Greece",
+      "iata": "ATH",
       "climate": "warm",
       "temperature": {
         "high": "79°F",
@@ -45,7 +53,9 @@
       "summary": "Greece, with its ancient history and picturesque islands, beckons travelers with crystal-clear waters and Mediterranean charm. Explore ancient ruins, savor delicious Greek cuisine, and relax on the beaches of Santorini for an unforgettable experience."
     },
     {
-      "name": "Puerto Rico",
+      "id": "mno1314",
+      "destination": "Puerto Rico",
+      "iata": "SJU",
       "climate": "hot",
       "temperature": {
         "high": "88°F",
@@ -56,7 +66,9 @@
       "summary": "Puerto Rico, a Caribbean gem, boasts tropical rainforests, vibrant festivals, and beautiful beaches. Dive into the local culture, visit historic Old San Juan, and enjoy outdoor adventures in El Yunque National Forest."
     },
     {
-      "name": "Alaska",
+      "id": "pqr1516",
+      "destination": "Alaska",
+      "iata": "ANC",
       "climate": "cold",
       "temperature": {
         "high": "68°F",
@@ -67,7 +79,9 @@
       "summary": "Alaska, a vast and diverse state in the United States, is known for its subarctic climate, with cool temperatures year-round. Explore majestic glaciers, witness breathtaking landscapes, and discover the unique wildlife that thrives in this northern wilderness."
     },
     {
-      "name": "Thailand",
+      "id": "stu1718",
+      "destination": "Thailand",
+      "iata": "BKK",
       "climate": "hot",
       "temperature": {
         "high": "92°F",
@@ -78,7 +92,9 @@
       "summary": "Thailand, a land of contrasts, combines bustling cities, ancient temples, and pristine beaches. Indulge in Thai cuisine, explore cultural landmarks, and relax on the islands for a diverse and vibrant travel experience."
     },
     {
-      "name": "Canada",
+      "id": "vwx1920",
+      "destination": "Canada",
+      "iata": "YVR",
       "climate": "cold",
       "temperature": {
         "high": "32°F",
@@ -89,7 +105,9 @@
       "summary": "Canada, a land of vast wilderness and vibrant cities, offers diverse experiences throughout the year. Explore the stunning landscapes of Banff National Park, experience cultural richness in Toronto, and enjoy winter activities in this northern gem."
     },
     {
-      "name": "Texas",
+      "id": "yza2122",
+      "destination": "Texas",
+      "iata": "DFW",
       "climate": "warm",
       "temperature": {
         "high": "75°F",
@@ -100,7 +118,9 @@
       "summary": "Texas, the Lone Star State, offers a diverse blend of culture, cuisine, and natural wonders. Explore vibrant cities, visit historic landmarks, and experience the warmth of Southern hospitality in this vast and lively state."
     },
     {
-      "name": "Madagascar",
+      "id": "bca2324",
+      "destination": "Madagascar",
+      "iata": "TNR",
       "climate": "warm",
       "temperature": {
         "high": "81°F",
@@ -111,7 +131,9 @@
       "summary": "Madagascar, an island nation in the Indian Ocean, boasts unique wildlife, diverse landscapes, and vibrant culture. Explore lemurs in rainforests, relax on pristine beaches, and discover the extraordinary biodiversity of this enchanting destination."
     },
     {
-      "name": "Dubai",
+      "id": "cab2526",
+      "destination": "Dubai",
+      "iata": "DXB",
       "climate": "hot",
       "temperature": {
         "high": "98°F",
@@ -122,7 +144,9 @@
       "summary": "Dubai, a futuristic city in the desert, offers luxury shopping, modern architecture, and desert adventures. Experience the opulence of the city, visit iconic landmarks, and enjoy a blend of tradition and modernity."
     },
     {
-      "name": "Vermont",
+      "id": "bcd2628",
+      "destination": "Vermont",
+      "iata": "BTV",
       "climate": "cold",
       "temperature": {
         "high": "32°F",
@@ -133,7 +157,9 @@
       "summary": "Vermont, a picturesque New England state, enchants with its charming villages, maple syrup farms, and scenic landscapes. Experience the beauty of fall foliage, explore historic towns, and enjoy outdoor activities in this winter wonderland."
     },
     {
-      "name": "Barbados",
+      "id": "def2930",
+      "destination": "Barbados",
+      "iata": "BGI",
       "climate": "hot",
       "temperature": {
         "high": "87°F",
@@ -144,7 +170,9 @@
       "summary": "Barbados, a Caribbean jewel, captivates with its white-sand beaches, vibrant culture, and colonial architecture. Immerse yourself in the lively atmosphere, enjoy water activities, and savor the flavors of this island paradise."
     },
     {
-      "name": "Aruba",
+      "id": "ghi3132",
+      "destination": "Aruba",
+      "iata": "AUA",
       "climate": "hot",
       "temperature": {
         "high": "89°F",
@@ -155,7 +183,9 @@
       "summary": "Aruba, a sunny Caribbean escape, welcomes with its powdery beaches, turquoise waters, and friendly locals. Explore natural wonders, indulge in water sports, and experience the vibrant culture of this Dutch-influenced island."
     },
     {
-      "name": "Cuba",
+      "id": "jkl3334",
+      "destination": "Cuba",
+      "iata": "HAV",
       "climate": "hot",
       "temperature": {
         "high": "87°F",
